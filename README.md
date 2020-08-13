@@ -1,4 +1,4 @@
-# Das Boot
+# Das Boot - C++ Remote Access Tool
 
 Remote PC control (Windows Platform).
 
